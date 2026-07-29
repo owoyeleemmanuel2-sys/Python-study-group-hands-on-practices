@@ -1,5 +1,4 @@
 # Python-study-group-hands-on-practices
-my first five exercises 
 Python Lessons 1–5
 This repository contains my hands-on assignments completed during Lessons 1–5 of the SmartBizCrux Technology Python Study Group.
 Lessons Covered
