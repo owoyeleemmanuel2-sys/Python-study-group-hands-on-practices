@@ -2,6 +2,7 @@
 Python Lessons 1–5
 This repository contains my hands-on assignments completed during Lessons 1–5 of the SmartBizCrux Technology Python Study Group.
 Lessons Covered
+
 Lesson 1: Introduction to Python & Jupyter Notebook
 Lesson 2: Python Fundamentals — Variables, Data Types, Functions, and User Input
 Lesson 3: Python Arithmetic & Comparison Operators
