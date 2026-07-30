@@ -4,11 +4,17 @@ This repository contains my hands-on assignments completed during Lessons 1–5 
 Lessons Covered
 
 Lesson 1: Introduction to Python & Jupyter Notebook
+
 Lesson 2: Python Fundamentals — Variables, Data Types, Functions, and User Input
+
 Lesson 3: Python Arithmetic & Comparison Operators
+
 Lesson 4: Python Operators — Logical, Assignment, and Membership
+
 Lesson 5: Strings and String Manipulation
+
 Repository Contents
+
 Hands-On #1 – Introduction to Python & Jupyter Notebook
 Hands-On #2 – Python Fundamentals
 Hands-On #3 – Arithmetic & Comparison Operators
